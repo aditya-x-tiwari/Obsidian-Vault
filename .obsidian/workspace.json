@@ -1,0 +1,407 @@
+{
+  "main": {
+    "id": "adeb5d5e1e783c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1ccc81ae22937fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "019feb648afe68b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/03_Essential_Virtuality/Proper Learning Technique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proper Learning Technique"
+            }
+          },
+          {
+            "id": "d6f8926591f93080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/03_Essential_Virtuality/01_Introducing_OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Introducing_OS"
+            }
+          },
+          {
+            "id": "68c9c819fc76f645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/02_Findings/01_Knowing_Purpose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Knowing_Purpose"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01b01a7579d18e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ec6f8a73c4d978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1914fc340500f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b63082bc87e83db8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1ecab3914221a35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "54268f5635ef0b57",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "bf3c22220a2a8178",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab02e29b253a5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0dd6b377c2c422f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07. Guides/How To Study and Learn.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How To Study and Learn"
+            }
+          },
+          {
+            "id": "b4f31bd50c12b462",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. Personal/03_Essential_Virtuality/11_Indulging With Surroundings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11_Indulging With Surroundings"
+            }
+          },
+          {
+            "id": "7202546dca80e48b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60619b3cd22b1bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Personal/03_Essential_Virtuality/11_Indulging With Surroundings.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 11_Indulging With Surroundings"
+            }
+          },
+          {
+            "id": "4cd36b6efcc197cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a03dec3f434259d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2090c2e861610512",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f3ddfdbe268373ba",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4582f80e130bd994",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c46193bb1c760e71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "eb61be876603e9b8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e6e612048e75160d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e5bb6ef9feb54b9b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f45ca2617289017c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "993bd34159d0125d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "56c9f10481a45c14",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f9279a7951dc2ece",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5a9fdaf1c698134d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notes-refresher:Get note summaries": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5a9fdaf1c698134d",
+  "lastOpenFiles": [
+    "01. Personal/03_Essential_Virtuality/00_Introducing_Virtual_Data.md",
+    "01. Personal/02_Findings/04_Guide_You_Need_Before_Starting_Out_Anything.md",
+    "01. Personal/02_Findings/03_How_To_Approach_Data.md",
+    "01. Personal/03_Essential_Virtuality/02_Introducing_Software.md",
+    "07. Guides/Software Guides/Memory_Management_Guide.md",
+    "01. Personal/02_Findings/02_It_All_Starts_Here.md",
+    "01. Personal/02_Findings/01_Knowing_Purpose.md",
+    "01. Personal/02_Findings/00_What_Is_This.md",
+    "01. Personal/03_Essential_Virtuality/Recommended_Information_Sources.md",
+    "01. Personal/03_Essential_Virtuality/Proper Learning Technique.md",
+    "01. Personal/01_Journals/01_Review_Information_Sources.md",
+    "03. BioHacking/D_Cognition.md",
+    "07. Guides/Software Guides/Linux_Guide.md",
+    "03. BioHacking/00_BioHacking.md",
+    "01. Personal/01_Journals/Health Tips everybody agrees on.md",
+    "01. Personal/01_Journals/Great Picture Poses.md",
+    "01. Personal/01_Journals/Taking Best Possible Notes .md",
+    "01. Personal/01_Journals/Self Improvement ideas.md",
+    "01. Personal/01_Journals/Getting_Over_Social_Media.md",
+    "01. Personal/01_Journals/05. My Favorites.md",
+    "01. Personal/01_Journals/10_Why People do not Succeed in Life.md",
+    "Resources/Attachments/Are you locked in or just dreaming motivation.mp4",
+    "02. Computer Science/Artificial Intelligence/Symbolic AI/2. KRR/0. Concepts/desktop.ini",
+    "02. Computer Science/6. Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/desktop.ini",
+    "06. Skills/07. Content Creation/Video Editing/desktop.ini",
+    "01. Personal/02_Findings/05_My Bio.md",
+    "01. Personal/03_Essential_Virtuality/01_Introducing_OS.md",
+    "07. Guides/Software Guides/Obsidian_Guide.md",
+    "07. Guides/Software Guides/Windows_Guide.md",
+    "01. Personal/03_Essential_Virtuality/11_Interaction_With_Surroundings.md",
+    "02. Computer Science/Artificial Intelligence/Data Science/Data Mining/0. Concepts/2. Foundation/desktop.ini",
+    "02. Computer Science/6. Computer Operating System/Knowledge Base/1. Process & Thread/desktop.ini",
+    "01. Personal/03_Essential_Virtuality",
+    "Resources/Attachments/forgetting_curve.webp",
+    "Untitled.canvas",
+    "01. Personal/01_Journals",
+    "Resources/Attachments/athletic.jpg",
+    "Resources/Attachments/casual.jpg",
+    "Resources/Attachments/loafers.jpg",
+    "Resources/Attachments/oxfords.jpg",
+    "Resources/Attachments/formal.jpg",
+    "Resources/Attachments/boots.webp",
+    "Resources/Attachments/sandals.jpg",
+    "Resources/Attachments/slipons.jpg",
+    "Resources/Attachments/sneakers.webp",
+    "Resources/Attachments/THIS Is a SPECTACULAR Level Of CALISTHENICS calisthenics shorts workout motivation.mp4",
+    "Resources/Attachments/Deparmental Routine 2024-25_ 1st Sem.pdf"
+  ]
+}
