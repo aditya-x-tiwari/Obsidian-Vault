@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Personal/03_Essential_Virtuality/01_Introducing_OS.md",
+                "file": "01. Personal/01_Journals/03. Things to Buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Introducing_OS"
+              "title": "03. Things to Buy"
             }
           },
           {
@@ -210,16 +210,6 @@
             }
           },
           {
-            "id": "2090c2e861610512",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "f3ddfdbe268373ba",
             "type": "leaf",
             "state": {
@@ -230,97 +220,7 @@
             }
           },
           {
-            "id": "4582f80e130bd994",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c46193bb1c760e71",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "eb61be876603e9b8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e6e612048e75160d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e5bb6ef9feb54b9b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f45ca2617289017c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "993bd34159d0125d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "56c9f10481a45c14",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f9279a7951dc2ece",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5a9fdaf1c698134d",
+            "id": "d38bf49309d8b12e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -328,14 +228,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "a88d0b83d40c735f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,15 +256,17 @@
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "notes-refresher:Get note summaries": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Copilot Chat": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5a9fdaf1c698134d",
+  "active": "d6f8926591f93080",
   "lastOpenFiles": [
+    "01. Personal/03_Essential_Virtuality/01_Introducing_OS.md",
     "01. Personal/03_Essential_Virtuality/00_Introducing_Virtual_Data.md",
     "01. Personal/02_Findings/04_Guide_You_Need_Before_Starting_Out_Anything.md",
     "01. Personal/02_Findings/03_How_To_Approach_Data.md",
@@ -382,7 +293,6 @@
     "02. Computer Science/6. Computer Operating System/Knowledge Base/3. Memory Management/0. Concept/desktop.ini",
     "06. Skills/07. Content Creation/Video Editing/desktop.ini",
     "01. Personal/02_Findings/05_My Bio.md",
-    "01. Personal/03_Essential_Virtuality/01_Introducing_OS.md",
     "07. Guides/Software Guides/Obsidian_Guide.md",
     "07. Guides/Software Guides/Windows_Guide.md",
     "01. Personal/03_Essential_Virtuality/11_Interaction_With_Surroundings.md",
