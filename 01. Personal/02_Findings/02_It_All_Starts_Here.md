@@ -10,7 +10,7 @@ Mark my words, **" This thought won't go away it will haunt you till death. You 
 
 ## Discussion?
 
- In the next part of the journey what you encounter is devices. Something which takes a input, gives a output and performs a process in between. You are also a device. The surroundings are also made of devices. You need them to work for you as they are required in many aspects of life. Use devices as solutions don't focus much. Focus on the problem and the general solution for it. Specific Solutions or devices should be configured and used and not focused upon. They Come and Go. Follow the message not the messenger.
+ In the next part of the journey what you encounter is devices. Something which takes a input, gives a output and performs a process in between It may also give errors which needs to be handled . You are also a device. The surroundings are also made of devices. You need them to work for you as they are required in many aspects of life. Use devices as solutions don't focus much.  Focus on the problem and the general solution for it. Specific Solutions or devices should be configured and used and not focused upon. They Come and Go. Follow the message not the messenger.
 
 >[!quote] Plato said Necessity is the mother of invention
 
