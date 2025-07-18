@@ -126,9 +126,10 @@ Biohacking involves using scientific knowledge of the body to optimize health, p
    **Biohacking Focus**: Learn how to tailor your diet, exercise, and lifestyle choices to optimize gene expression.
 
 ---
+Mentionable Resources to Learn From :
+Bryan Johnson - Don't Die Misssion 
 
 Summary
-
 Bryan's diet is vegan by choice, not by necessity.
 
 Before Blueprint Stack Protocol:
@@ -347,5 +348,4 @@ r/blueprint_ - "Sleep deprivation makes hard things feel impossible. High qualit
 Sleep environment: Blacked out room, Very quiet, Room Temperature not too hot or too cold, Bed Temperature controlled bed using 8Sleep (Bryan has it set at 71° - 73° F, for deep and rem sleep), grounded sheets, ergonomic pillow (Bryan uses a ZAMAT Memory Foam, 2 air filters. No work or other activities done in the sleep room. Consider sleeping alone. Use a sleep tracking device to gather data (Bryan uses a Whoop).
 
 Sleep position: side sleeping to improve blood flow to brain, ergonomic pillow for head, pillow between knees.
-
 Sleep time: 8 - 8:30 Hours
