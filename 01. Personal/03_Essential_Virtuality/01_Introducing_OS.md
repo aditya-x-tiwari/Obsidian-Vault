@@ -13,6 +13,7 @@ Data is precious, we will spend the entire life building it we cannot afford to 
 Data Access should not be limited to certain favorable conditions. It should be accessed from anywhere anytime it should also be Device independent.
 Operating System is made for the user opting the best considering these factors is definitely good for our own local system but we also need to stick to what the general population uses as this does not create our own local machine as a dependency and we are compatible with the world.
 
+For mobile smartphones, we have the best optimised form [Guide here](Android Guide).
 You need two at maximum one which is the best and other which integrates with  everybody and is simple to use. 
 Hence the one that is most optimal till time has its [Guide here](Linux_Guide), and the one used by others has its [Guide here](Windows_Guide).
 Note that these are files containing details of how you are configuring them. It has got only those information which you will be needing.  
